@@ -8,6 +8,6 @@ Please prepare an environment with python=3.8, and then use the command "pip ins
 * Graph construction for generating graph for the second-stage network.
 * "train.py" and "test.py" for training and testing, visual.py for visualization.
 ## 4. Evaluation
-* "/utils/metrics.py" for quantitative evaluation.
+* ["/utils/metrics.py"](https://github.com/muxin0527/TTGA-U-Net/blob/main/utils/metric.py) for quantitative evaluation.
 ## Acknowledgement
 This repository is built based on [Av-casNet](https://github.com/xjtu-mia/octa?tab=readme-ov-file#citation) repository.
